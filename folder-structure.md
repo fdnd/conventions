@@ -8,11 +8,18 @@ Gebaseerd op [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft
     ├── docs                    # Documentatie
     ├── src                     # Bronbestanden
     ├── test                    # Geautomatiseerde tests
-    ├── tools                   # Tools and utilities
-    ├── CHANGELOG.md
-    ├── LICENSE
+    ├── CHANGELOG.md            # Lijst van noemenswaardige aanpassingen (zie [changelog.md](changelog.md))
+    ├── LICENSE                 # Licentiemodel (zie [license.md](license.md))
     ├── README.md
-    └── TODO.md
+    └── TODO.md                 # Uit te voeren stappen om een taak te volbrengen (zie [todo.md](todo.md))
     
 Gebruik korte lowercase bestandsnamen voor alle bestanden behalve
 `CHANGELOG.md`, `LICENSE`, `README.md` and `TODO.md`
+
+## build map
+
+## docs map
+
+## src map
+
+## test map
