@@ -4,10 +4,10 @@ Gebaseerd op [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft
 ## Structuur voor de hoofdmap
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── build                   # Compiled bestanden
+    ├── docs                    # Documentatie
+    ├── src                     # Bronbestanden
+    ├── test                    # Geautomatiseerde tests
     ├── tools                   # Tools and utilities
     ├── CHANGELOG.md
     ├── LICENSE
