@@ -14,4 +14,4 @@ Gebaseerd op [kriasoft/Folder-Structure-Conventions](https://github.com/kriasoft
     └── TODO.md                 # Uit te voeren stappen om een taak te volbrengen (zie todo.md)
     
 Gebruik korte lowercase bestandsnamen voor alle bestanden behalve
-`CHANGELOG.md`, `LICENSE`, `README.md` and `TODO.md`
+[`CHANGELOG.md`](changelog.md), `LICENSE`, `README.md` and `TODO.md`
